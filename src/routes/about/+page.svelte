@@ -3,4 +3,4 @@
 </script>
 
 
-<a href="{base}/">ABOUT</a>
+<a href="{base}/">Home</a>
